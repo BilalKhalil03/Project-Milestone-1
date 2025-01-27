@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sincere-actor-448722-g4",
+  "private_key_id": "5a6c485fd479453bb26dbcca77346fd71ea55e01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtF95Cnj34T5qw\nG60D3HNhm1CPlx8nqp7t1Eb8ASKs7zR/3p6vIVUMk+sO2CDkq7Y/1XLO0xb06H45\nyCnqrV8wAvam0CQ387+Eyt9eYtUIrcjmOQ/5QQBYzo2YIsl1cJvfr/hqbffuOqrq\nNdKKrk/o5qtdmzd68ahQd7UqIvUy3ptRA0FahrWEW00S8LDIgTnArhWXLrEaGMfY\n2y5YBiT6QNjG+dnu7MOS2JJsvuA6pChkThrE1r6bw9t5WWVxvLYoIBRmoqKuhGJO\nobLIYcz6/FziN/wz4HMSzcUujiE1NlcG9TpeqeOTxNidPW1aHq0F7BwjlzKAPsAU\nMofIuBxbAgMBAAECggEAEDAlGWOK6yVSvmP65IYNBRS3+OiKwYnGTvrP4AihJr2W\nUjEj88AGdWSDaBd+zV62buDhBFvJ5VdgWroQGte3s8SghGL/SCZT2TD5/piipir5\nQ3gUY4dt52BQmL5ZdfzKmdBvcftdORqj2mn0igNvC2/rQ0Kyx8eVqgo6rLlT55EH\nuIJTkKJ2tj+wjgQzvAoOtL2xyORBjIWp2Lv6cP3t1a2QnQpi0L9OqLdJQsD1fHff\n4O8nlIBIdSFCsBqp7Y4hYbgEHcQLyk6deHaCCycS2E0fDbYn9LkzR/Nmh93EdqaB\ndV972klnd8xqvWDMBQbwNC9texSRyKhs8CzF//xEzQKBgQDUCfUuoI3IQp4ArG+9\nsZxRUVk+5Xn7nTwzVIRWdf1SBLevTJ4mO5NWyfEO+2DvxdsT2K/N5mne+TztR/ae\nbIhHc7azOyJMHseBpWPtHv9e52aE3/H4SqdPcccRx9Z7QAEgX8/ZtkcpTI5Dkz9n\noayxmfq9DSXcLKaVghH2SJJnRQKBgQDQ+trrNYT6yZz+Fa4IuMz4zWAGONQ7Yft6\nyt0wJyFbFPhT9wxULgBd2hgOIxs5/3WbefE+M7MJqeBCAxQu/cus2qdwZXX8Ajn7\nBSUGTBBkSYlTmVSyTy9hGr42zDFoXHVbW5HzIc6Wq3zlbBTsE1xmSR4AArSaPOt5\nerbzsS9fHwKBgCUh/UsGGO5KJEtv5z2sHfjrqxplq4AR4BoJIgfWL9+uLdDINSXy\n5vGa+dkq0qYK2zvVhawkPsQql63iHWFPFmqU7BjlMTNtbHja0u4SsJwZIA4C/egC\ngtxZy4fknD4HTmsx/D9fOYUVABD7d24ZlRmhIpT6+XdeZmnmVmjv+puVAoGAM9Ef\nmxaoJG79SFsjzfHUkRSLbL+GkDrZWjcW5Suur6DheiBVpEHLwXmkYUz/IUBgbu6r\njJrRF+JRQsz0ojo32GJXBh2CRbxfmAhMh+UwY02AiYQJZjUQMGmrJHc5AQF77+0i\noUCOsvlOfKxx+59JV+tlTudc1KmqUXLGDmKutk0CgYBxMI89fhi7UQcbIFbF293A\n+krArZDzOfBYez37cdm4VSs3knEHB2rQ5TJkh9Nr2B6VxO6iDjxz9vVVkjSdB+KX\nHom+9K0fmkku0ZCk0n8xzJJZkTWtJg7Z8WC3src3I8aZEiCnrlDSg4Ra347qhWIO\nqneNOz/GDcXmWx4dwFAmBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub-system@sincere-actor-448722-g4.iam.gserviceaccount.com",
+  "client_id": "105877505751831926713",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub-system%40sincere-actor-448722-g4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
